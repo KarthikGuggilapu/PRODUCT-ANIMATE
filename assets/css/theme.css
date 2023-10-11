@@ -1,0 +1,21 @@
+:root{
+
+    /* Colors */
+    --reddish-pink : #ad0043;
+    --dark-pink : #dd0e5f;
+    --blue : rgb(21, 119, 159);
+    --darkblue : rgb(35, 97, 134);
+    --light-pink : rgb(185, 64, 109);
+    --white : #fff;
+    --black : #000;
+    --light-grey : #dcdcdc;
+    --black-trans2 : rgb(0,0,0,0.2);
+
+    /* Font Size */
+    --large : 3em;
+    --medium-3 : 2.5em;
+    --medium-2 : 2em;
+    --medium-1 : 1.5em;
+    --small : 1em;
+    
+}
